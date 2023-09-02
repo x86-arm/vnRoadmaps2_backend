@@ -1,0 +1,3 @@
+module.exports = {
+  // Other Next.js configuration ...
+};
